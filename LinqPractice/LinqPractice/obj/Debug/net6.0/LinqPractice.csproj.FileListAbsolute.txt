@@ -1,0 +1,15 @@
+D:\LINQ-Practice\LinqPractice\LinqPractice\bin\Debug\net6.0\LinqPractice.exe
+D:\LINQ-Practice\LinqPractice\LinqPractice\bin\Debug\net6.0\LinqPractice.deps.json
+D:\LINQ-Practice\LinqPractice\LinqPractice\bin\Debug\net6.0\LinqPractice.runtimeconfig.json
+D:\LINQ-Practice\LinqPractice\LinqPractice\bin\Debug\net6.0\LinqPractice.dll
+D:\LINQ-Practice\LinqPractice\LinqPractice\bin\Debug\net6.0\LinqPractice.pdb
+D:\LINQ-Practice\LinqPractice\LinqPractice\obj\Debug\net6.0\LinqPractice.csproj.AssemblyReference.cache
+D:\LINQ-Practice\LinqPractice\LinqPractice\obj\Debug\net6.0\LinqPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\LINQ-Practice\LinqPractice\LinqPractice\obj\Debug\net6.0\LinqPractice.AssemblyInfoInputs.cache
+D:\LINQ-Practice\LinqPractice\LinqPractice\obj\Debug\net6.0\LinqPractice.AssemblyInfo.cs
+D:\LINQ-Practice\LinqPractice\LinqPractice\obj\Debug\net6.0\LinqPractice.csproj.CoreCompileInputs.cache
+D:\LINQ-Practice\LinqPractice\LinqPractice\obj\Debug\net6.0\LinqPractice.dll
+D:\LINQ-Practice\LinqPractice\LinqPractice\obj\Debug\net6.0\refint\LinqPractice.dll
+D:\LINQ-Practice\LinqPractice\LinqPractice\obj\Debug\net6.0\LinqPractice.pdb
+D:\LINQ-Practice\LinqPractice\LinqPractice\obj\Debug\net6.0\LinqPractice.genruntimeconfig.cache
+D:\LINQ-Practice\LinqPractice\LinqPractice\obj\Debug\net6.0\ref\LinqPractice.dll
